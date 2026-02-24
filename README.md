@@ -352,11 +352,3 @@ In this project, I successfully deployed and tested an NFS-based file sharing so
 This implementation can be extended further using automount, Kerberos authentication, or high-availability storage depending on enterprise requirements.
 
 ---
-
-## ✍️ Author
-
-**Vishwaraj Kumar**  
-🔗 [GitHub Profile](https://github.com/vishwaraj-kumar)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/vishwaraj-kumar/)
-
----
